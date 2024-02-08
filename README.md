@@ -124,7 +124,7 @@ SSH into the VM:
 ### Install TheHive
 You can choose to either set this up in the cloud, or on a virtual machine:
 #### Option 1. Virtual Machine: 
-Use Ubuntu 22.04 and follow this [guide](https://github.com/MyDFIR/SOC-Automation-Project/blob/main/TheHive-Install-Instructions) to download TheHive & pre-requisites.
+Use Ubuntu 22.04 and follow this <a href="/TheHive-Install-Guide">guide</a> to download TheHive & pre-requisites.
 
 #### Option 2. In the Cloud (Digital Ocean): 
 Create a new Droplet (cloud server)
@@ -136,7 +136,7 @@ Attach the Firewall:
 - Select the Firewall we created: Droplets > Add Droplets > "TheHive".
 
 SSH into the VM:
-- Follow this [guide](https://github.com/MyDFIR/SOC-Automation-Project/blob/main/TheHive-Install-Instructions) for the commands to use to download TheHive and its pre-requisites. (Java, Cassandra, ElasticSearch, TheHive)
+- Follow this <a href="/TheHive-Install-Guide">guide</a> for the commands to use to download TheHive and its pre-requisites. (Java, Cassandra, ElasticSearch, TheHive)
 
 ## Configurations
 Coming soon!
